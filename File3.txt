@@ -1,0 +1,4 @@
+This is the 3rd file
+I have line 1
+I have line 2
+I have line 3
